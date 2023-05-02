@@ -1,3 +1,6 @@
 bananas
 manzanas
 vinagre
+galletitas dulces
+galletitas saladas
+pan
